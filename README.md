@@ -1,0 +1,1 @@
+This is the tribute page project relate to the freecodecamp curriculum
