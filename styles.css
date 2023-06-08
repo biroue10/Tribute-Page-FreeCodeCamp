@@ -70,3 +70,8 @@ ul li {
   padding-top: 2%;
   padding-bottom: 2%;
 }
+#image{
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
