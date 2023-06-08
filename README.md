@@ -1,5 +1,3 @@
-Certainly! Here's an example of a README file for the Tribute Page project:
-
 # Tribute Page Project
 
 This project is a tribute page that honors Dr. Norman Borlaug. It is a part of the freeCodeCamp curriculum for Responsive Web Design.
